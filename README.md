@@ -1,2 +1,1 @@
-# ls_tasks
-List procs from loadable kernel module.
+List tasks from kernel module.
